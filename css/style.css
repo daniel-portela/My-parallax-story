@@ -13,7 +13,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-weight: 900;
+    font-weight: 700;
     color: #000;
 }
 
@@ -34,6 +34,7 @@ main {
     padding: 0 20px;
 }
 
+
 section.module p {
     margin-bottom: 40px;
 }
@@ -44,7 +45,7 @@ section.module:last-child {
 
 section.module h2 {
     margin-bottom: 40px;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 section.module.content {
@@ -81,21 +82,21 @@ section.module.parallax:after {
 }
 
 section.module.parallax-1 {
-    background-image: url("https://images.unsplash.com/photo-1464823063530-08f10ed1a2dd?dpr=1&auto=format&fit=crop&w=1199&h=799&q=80&cs=tinysrgb&crop=");
+    background-image: url("https://maestralia.com/blog-media/2021/06/nubelson-fernandes-gTs2w7bu3Qo-unsplash-scaled.jpg");
 }
 
 section.module.parallax-2 {
-    background-image: url("https://images.unsplash.com/photo-1473181488821-2d23949a045a?dpr=1&auto=compress,format&fit=crop&w=1199&h=799&q=80&cs=tinysrgb&crop=");
+    background-image: url("https://images.unsplash.com/photo-1472162314594-eca3c3d90df1?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=");
 }
 
 section.module.parallax-3 {
-    background-image: url("https://images.unsplash.com/photo-1472162314594-eca3c3d90df1?dpr=1&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=");
+    background-image: url("https://images.unsplash.com/photo-1473181488821-2d23949a045a?dpr=1&auto=compress,format&fit=crop&w=1199&h=799&q=80&cs=tinysrgb&crop=");
 }
 
 section.module.parallax h1 {
     color: #FFF;
     text-align: center;
-    font-size: 78px;
+    font-size: 40px;
     z-index: 50;
     text-transform: uppercase;
 }
