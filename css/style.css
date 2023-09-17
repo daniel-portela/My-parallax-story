@@ -49,7 +49,7 @@ section.module h2 {
 
 section.module.content {
     padding: 40px 0;
-    background: #ece7d5;
+    background: #e1c8f4;
 }
 
 section.module.parallax {
@@ -81,7 +81,7 @@ section.module.parallax:after {
 }
 
 section.module.parallax-1 {
-    background-image: url("https://maestralia.com/blog-media/2021/06/nubelson-fernandes-gTs2w7bu3Qo-unsplash-scaled.jpg");
+    background-image: url("https://i.pinimg.com/originals/b2/d8/3e/b2d83ea9e7ed38e90f9cea7daa2f4b33.jpg");
 }
 
 section.module.parallax-2 {
@@ -90,6 +90,10 @@ section.module.parallax-2 {
 
 section.module.parallax-3 {
     background-image: url("https://images.unsplash.com/photo-1473181488821-2d23949a045a?dpr=1&auto=compress,format&fit=crop&w=1199&h=799&q=80&cs=tinysrgb&crop=");
+}
+
+section.module.parallax-4 {
+    background-image: url("https://i.pinimg.com/originals/df/8a/54/df8a54f5a2a7be8bea83a8e21aad34b3.jpg");
 }
 
 section.module.parallax h1 {
