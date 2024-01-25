@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
     color: #242424;
     font-family: sans-serif;
     word-wrap: break-word;
